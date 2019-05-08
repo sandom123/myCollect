@@ -14,6 +14,16 @@
 - [Golang资料集](https://www.jianshu.com/p/4b7e951e5b98)
 - [Docker下gogs的使用](https://blog.csdn.net/wangchao8110/article/details/85220918)
 
+### 优秀go项目
+- https://github.com/3xxx
+- https://github.com/yangyuanqi/free_cms
+- https://github.com/linbaozhong/go-cms
+- https://github.com/george518/PPGo_ApiAdmin
+- https://github.com/linbaozhong/websocket
+- 微信小程序 SDK https://github.com/linbaozhong/weapp
+- Go中文分词 https://github.com/linbaozhong/sego
+- https://github.com/linbaozhong/websocket
+
 
 以下文章索引为发布时间倒序：
 - [代理环境下在 macOS 上安装 Minikube 小记](https://github.com/Unknwon/wuwen.org/issues/20)
