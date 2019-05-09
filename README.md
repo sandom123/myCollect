@@ -22,7 +22,6 @@
 - https://github.com/linbaozhong/websocket
 - 微信小程序 SDK https://github.com/linbaozhong/weapp
 - Go中文分词 https://github.com/linbaozhong/sego
-- https://github.com/linbaozhong/websocket
 
 
 以下文章索引为发布时间倒序：
